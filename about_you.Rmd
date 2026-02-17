@@ -1,6 +1,6 @@
 ---
 title: "First Knit"
-author: "Your Name"
+author: "Leah Castro"
 output: 
   html_document:
     number_sections: true
@@ -18,7 +18,7 @@ Where did you attend High School, and did you graduate? Compare english class to
   
 ### my answer     
   
-
+I attended high school at Antelope Valley Learning Academy which is an independent study kind of school. I graduated in 2024. In my opinion, English is harder for me because it is more open ended answers which I struggle with occasionally while math is mostly straight foward answers and their is often formulas or rules that make it easy. 
      
 
 
